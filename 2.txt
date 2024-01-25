@@ -1,0 +1,14 @@
+Filesystem                                                     Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk3s1s1                                                228Gi  8.5Gi   75Gi    11%  356093  788590320    0%   /
+devfs                                                         263Ki  263Ki    0Bi   100%     910          0  100%   /dev
+/dev/disk3s6                                                  228Gi   18Gi   75Gi    20%      18  788590320    0%   /System/Volumes/VM
+/dev/disk3s2                                                  228Gi  9.0Gi   75Gi    11%    1027  788590320    0%   /System/Volumes/Preboot
+/dev/disk3s4                                                  228Gi   18Mi   75Gi     1%      44  788590320    0%   /System/Volumes/Update
+/dev/disk1s2                                                  500Mi  6.0Mi  483Mi     2%       1    4941560    0%   /System/Volumes/xarts
+/dev/disk1s1                                                  500Mi  6.2Mi  483Mi     2%      32    4941560    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                                  500Mi  480Ki  483Mi     1%      50    4941560    0%   /System/Volumes/Hardware
+/dev/disk3s5                                                  228Gi  116Gi   75Gi    61% 1777740  788590320    0%   /System/Volumes/Data
+map auto_home                                                   0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+/dev/disk2s1                                                  5.0Gi  1.5Gi  3.5Gi    31%      58   36442480    0%   /System/Volumes/Update/SFR/mnt1
+/Users/annamarijazasuhina/Downloads/Visual Studio Code-2.app  228Gi   82Gi  114Gi    43%  875411 1190683840    0%   /private/var/folders/ly/yytyw2_s22gcjn4s5nvx0kjh0000gn/T/AppTranslocation/68710743-B70A-4B99-BD9F-D37304496E7A
+/dev/disk4s2                                                   20Mi   20Mi    0Bi   100%      31 4294967248    0%   /private/tmp/KSInstallAction.8HmHCjIomb/m
